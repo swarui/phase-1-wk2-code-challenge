@@ -1,0 +1,121 @@
+@font-face {
+  font-family: Poppins Bold;
+  src: url(font/Poppins-Bold.otf);
+}
+@font-face {
+  font-family: Poppins Medium;
+  src: url(font/Poppins-Medium.otf);
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: radial-gradient(
+    circle at 10% 20%,
+    rgb(0, 93, 133) 0%,
+    rgb(0, 181, 149) 90%
+  );
+}
+h1 {
+  font-family: Poppins Bold;
+  color: black;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  font-size: 25px;
+  margin-top: 20px;
+}
+.animal-names h2 {
+  font-family: Poppins Medium;
+  display: flex;
+  font-size: 20px;
+  color: black;
+  justify-content: center;
+}
+.animal-details h2 {
+  font-family: Poppins Medium;
+  display: flex;
+  font-size: 20px;
+  color: black;
+  display: flex;
+  justify-content: center;
+}
+
+.vote-form {
+  margin-left: 20px;
+}
+#vote-input {
+  padding: 5px 10px;
+  border-radius: 20px;
+  border: 2px solid;
+}
+.vote-form h2 {
+  font-family: Poppins Bold;
+  font-size: 25px;
+  margin-left: 29%;
+}
+.vote-form button {
+  padding: 4px 8px;
+  border-radius: 20px;
+  border: 2px solid;
+  cursor: pointer;
+  margin-left: 29;
+  background-color: blue;
+  
+}
+.vote-form input{
+    margin-left: 29%;
+}
+#vote-button{
+    font-family: Poppins ;
+}
+#reset-button {
+  font-family: Poppins Medium;
+  padding: 4px 8px;
+  border-radius: 20px;
+  border: 2px solid;
+  margin-left: 30%;
+  margin-top: 10px;
+  background-color: blue;
+}
+.add-animal-form h2{
+    font-size: 25px;
+    margin-top: 20px;
+    padding-left: 20px;
+    font-family: Poppins Bold;
+    margin-left: 35%;
+
+}
+/* CSS for vertical arrangement of form elements */
+.add-animal-form form label {
+    display: block;
+    margin-bottom: 10px;
+    margin-left: 30%;
+    font-family: Poppins Bold;
+    margin-top: 10px;
+}
+
+.add-animal-form form input[type="text"],
+.add-animal-form form input[type="number"] {
+    width: 30%;
+    padding: 5px 20px;
+    margin-left: 30%;
+    border-radius: 20px;
+    border: 2px solid;
+}
+
+.add-animal-form form button[type="submit"] {
+    display: flex;
+    margin-left: 30%;
+    margin-top: 20px;
+    color: black;
+    cursor: pointer;
+    padding: 5px 10px;
+    border-radius: 20px;
+    border: 2px;
+    font-family: Poppins Bold;
+    background-color: blue;
+}

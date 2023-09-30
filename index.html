@@ -15,7 +15,7 @@
       integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2"
       crossorigin="anonymous"
     />
-    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./style.css" />
 
     <title>Flatacuties</title>
   </head>
@@ -24,42 +24,39 @@
       <h1>Flatacuties vote for The cutest animal</h1>
     </header>
     <main>
-        <section class="animal-list">
-            <h2>Animal Names</h2>
+      <section class="animal-names">
+        <h2>Animal Names</h2>
+      </section>
+      <section class="animal-details">
+        <h2>Animal Details</h2>
+      </section>
 
-        </section>
-        <section class="animal-details">
-            <h2>Animal Details</h2>
-        </section>
+      <section class="vote-form">
+        <h2>Vote for an animal</h2>
+        <input type="number" id="vote-input" min="0" value="0" />
+        <button id="vote-button">Vote</button>
+      </section>
+      <section class="reset-button">
+        <button id="reset-button">Reset vote</button>
+      </section>
 
-        <section class="vote-form">
-            <h2>Vote for an animal</h2>
-        <input type="number" id="vote-input" min="0" value="0">
-        <button id="reset-button">Reset Votes</button>
-        </section>
+      <section class="add-animal-form">
+        <h2>Add a New animal</h2>
+        <form id="animal-form">
+          <label for="animal-name">Animal Name</label>
+          <input type="text" id="animal-name" />
 
-        <section class="add-animal-form">
-            <h2>Add a New animal</h2>
-            <form id="animal-form">
-                <label for="animal-name">Animal Name</label>
-                <input type="text" id="animal-name">
+          <label for="animal-image">Animal url</label>
+          <input type="text" id="animal-image" />
 
-                <label for="animal-image">Animal url</label>
-                <input type="text" id="animal-image">
+          <label for="animal-votes">Votes</label>
 
-                <label for="animal-votes">Votes</label>
-                <input type="text" id="animal-votes" min="0" value="0">
-                <input type="number" id="animal-votes" min="0" value="0">
+          <input type="number" id="animal-votes" min="0" value="0" />
 
-                <button type="submit">Add animal</button>
-
-
-            </form>
-
-        </section>
+          <button type="submit">Add animal</button>
+        </form>
+      </section>
     </main>
-
-
 
     <!-- Optional JavaScript; choose one of the two! -->
 
