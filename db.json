@@ -43,10 +43,16 @@
       "id": 7
     },
     {
-      "name": "snake",
-      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fa-z-animals.com%2Fanimals%2Fimg-boa-constrictor%2F&psig=AOvVaw1alRXcfwwUEirjhOFxopCy&ust=1696315857280000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLCVvPzi1oEDFQAAAAAdAAAAABAE",
+      "name": "goat",
+      "image": "https://media.giphy.com/media/VkM7sV2DoZvZ6/giphy.gif",
       "votes": 0,
       "id": 8
+    },
+    {
+      "name": "giraffe",
+      "image": "https://media.giphy.com/media/2i06qrSENrXoc/giphy.gif",
+      "votes": 0,
+      "id": 9
     }
   ]
 }
