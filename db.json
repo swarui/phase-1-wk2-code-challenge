@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Mr. Cute",
-      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "image": "https://media.giphy.com/media/H2GT0TQBAlbuo/giphy.gif",
       "votes": 0
     },
     {
@@ -41,6 +41,12 @@
       "image": "https://media.giphy.com/media/IUbtrjrtEyarcQHAZl/giphy.gif",
       "votes": 0,
       "id": 7
+    },
+    {
+      "name": "snake",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fa-z-animals.com%2Fanimals%2Fimg-boa-constrictor%2F&psig=AOvVaw1alRXcfwwUEirjhOFxopCy&ust=1696315857280000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLCVvPzi1oEDFQAAAAAdAAAAABAE",
+      "votes": 0,
+      "id": 8
     }
   ]
 }
