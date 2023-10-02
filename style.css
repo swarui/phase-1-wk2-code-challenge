@@ -126,7 +126,7 @@ h1 {
   font-family: Poppins Bold;
   font-size: 25px;
 }
-/* CSS for vertical arrangement of form elements */
+/* Vertical arrangement of form elements for voting */
 .add-animal-form form label {
   display: block;
   margin-bottom: 10px;
