@@ -54,9 +54,7 @@ Contributions to the Flataculties project are welcome! If you have any ideas, im
 2. Create a new branch for your feature/fix:
 3. Commit your changes and push the branch:
 4. Open a pull request in the repository and provide a detailed description of your changes.
-## How the site is suppost to look like
-![Screenshot from 2023-10-03 14-23-45](https://github.com/swarui/phase-1-wk2-code-challenge/assets/135341074/2ef46e53-112a-4110-84a9-31bd5d3104a1)
-
+![Screenshot from 2023-10-03 14-23-45](https://github.com/swarui/phase-1-wk2-code-challenge/assets/135341074/9858a288-fc17-41f8-a700-849461a343e6)
 
 ## Author
 
