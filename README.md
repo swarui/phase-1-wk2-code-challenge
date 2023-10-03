@@ -57,6 +57,7 @@ Contributions to the Flataculties project are welcome! If you have any ideas, im
    
 ## How the website is suppost to look
 ![Screenshot from 2023-10-03 14-23-45](https://github.com/swarui/phase-1-wk2-code-challenge/assets/135341074/9858a288-fc17-41f8-a700-849461a343e6)
+![Screenshot from 2023-10-03 14-37-24](https://github.com/swarui/phase-1-wk2-code-challenge/assets/135341074/edcf9e32-724f-4327-a6a5-f029b2178a29)
 
 ## Author
 
