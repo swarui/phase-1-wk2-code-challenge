@@ -54,6 +54,9 @@ Contributions to the Flataculties project are welcome! If you have any ideas, im
 2. Create a new branch for your feature/fix:
 3. Commit your changes and push the branch:
 4. Open a pull request in the repository and provide a detailed description of your changes.
+## How the site is suppost to look like
+
+file:///home/steve/Pictures/Screenshots/Screenshot%20from%202023-10-03%2014-23-45.png
 
 ## Author
 
